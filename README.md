@@ -1,8 +1,8 @@
 # Hi, I'm Talha Masood Khan
 
-**Senior Full Stack Developer** | Laravel + Inertia.js + React | 14+ Years Experience
+**Senior Full Stack Developer** | Laravel + Inertia.js + React | 15+ Years Experience
 
-I build production systems that work and last. My checkout system is currently live processing real payments. My fee manager has been running for 10+ years.
+Building production systems that work and last. The checkout system is currently live processing real payments. The fee manager has been running for 10+ years.
 
 ---
 
@@ -11,25 +11,27 @@ I build production systems that work and last. My checkout system is currently l
 ### Checkout System (Live in Production)
 **Stack:** Laravel + Inertia.js + React
 
-Full-stack checkout system for AlMaghrib Institute (US-based educational platform).
+Full-stack checkout system for a US-based educational platform.
 - Laravel backend with Inertia.js bridging to React frontend
 - Stripe integration for payment processing
-- External API integrations (Checkout API, QuranFlow API)
+- External API integrations
 - **Currently processing real payments for live users**
 
-### Fee Manager (10+ Years Production)
-**Stack:** PHP/Yii2 + MySQL
+[View Live](https://go.checkout.almaghrib.org/quranflow)
 
-Complete financial system for school management.
+### Fee Manager (10+ Years Production)
+**Stack:** PHP/Yii + MySQL
+
+Complete financial module for [Ilmversity](https://ilmversity.com/) - a SaaS-based school management system.
 - 48 models, 20 controllers, complex business logic
 - Payment gateway integrations: Kuickpay, MeezanBank, PayPro
 - Multi-level fee structures: discounts, scholarships, installments
 - **Running in production serving multiple schools since 2014**
 
 ### HR Manager
-**Stack:** PHP/Yii2 + MySQL
+**Stack:** PHP/Yii + MySQL
 
-Full payroll management system.
+Full payroll management module for [Ilmversity](https://ilmversity.com/).
 - Dynamic salary components
 - Attendance-based calculations
 - Payslip generation
@@ -41,37 +43,23 @@ Full payroll management system.
 
 | Category | Technologies |
 |----------|-------------|
-| **Backend** | Laravel, PHP 8.x, Yii2, RESTful APIs |
+| **Backend** | Laravel, PHP, Yii, RESTful APIs |
 | **Frontend** | React, Inertia.js, Next.js, MUI, TypeScript |
 | **Database** | MySQL, Complex Schema Design |
 | **Payments** | Stripe, Kuickpay, MeezanBank, PayPro |
-| **Tools** | Git, AI Development Tools |
-
----
-
-## Why "AI Development Tools"?
-
-I use modern AI assistants (Claude, Copilot) as part of my workflow - like developers used Stack Overflow before. I understand the architecture and requirements; the tools help me write cleaner code faster. The proof is in production: systems that work.
 
 ---
 
 ## Work History
 
-- **Granjur Technologies** (2020 - Present) - Full Stack Developer for AlMaghrib Institute
-- **Ilmversity** (2016 - Present) - Full Stack Developer, School Management System
-- **Freelance via Upwork** (2010 - 2020) - PHP Developer, International Clients
-
-**Upwork Profile:** [upwork.com/freelancers/~01ff961b5bec70411f](https://www.upwork.com/freelancers/~01ff961b5bec70411f)
+- **2020 - 2025** - Full Stack Developer, US-based educational platform (Contract)
+- **2016 - 2025** - Full Stack Developer, SaaS School Management System (Part-time)
+- **2010 - 2020** - PHP Developer, Freelance (International Clients)
 
 ---
 
 ## Contact
 
 - **Email:** kkhan.talha@gmail.com
-- **LinkedIn:** [linkedin.com/in/talhamasoodkhan](https://linkedin.com/in/talhamasoodkhan)
 - **Location:** Lahore, Pakistan (GMT+5)
-- **Availability:** Open to remote opportunities
-
----
-
-*Note: Most of my production code is in private client repositories. I'm happy to discuss architecture, code decisions, and technical approaches in detail.*
+- **Availability:** Available for full-time remote opportunities
