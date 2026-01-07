@@ -2,7 +2,7 @@
 
 **Senior Full Stack Developer** | Laravel + Inertia.js + React | 15+ Years Experience
 
-Building production systems that work and last. The checkout system is currently live processing real payments. The fee manager has been running for 10+ years.
+Building production systems that work and last. The checkout system is currently live processing real payments. The fee manager has been running for 9+ years.
 
 ---
 
@@ -19,7 +19,7 @@ Full-stack checkout system for a US-based educational platform.
 
 [View Live](https://go.checkout.almaghrib.org/quranflow)
 
-### Fee Manager (10+ Years Production)
+### Fee Manager (9+ Years Production)
 **Stack:** PHP/Yii + MySQL
 
 Complete financial module for [Ilmversity](https://ilmversity.com/) - a SaaS-based school management system.
