@@ -26,7 +26,7 @@ Complete financial module for [Ilmversity](https://ilmversity.com/) - a SaaS-bas
 - 48 models, 20 controllers, complex business logic
 - Payment gateway integrations: Kuickpay, MeezanBank, PayPro
 - Multi-level fee structures: discounts, scholarships, installments
-- **Running in production serving multiple schools since 2014**
+- **Running in production serving multiple schools since 2016**
 
 ### HR Manager
 **Stack:** PHP/Yii + MySQL
@@ -52,9 +52,9 @@ Full payroll management module for [Ilmversity](https://ilmversity.com/).
 
 ## Work History
 
-- **2020 - 2025** - Full Stack Developer, US-based educational platform (Contract)
-- **2016 - 2025** - Full Stack Developer, SaaS School Management System (Part-time)
-- **2010 - 2020** - PHP Developer, Freelance (International Clients)
+- **2020 - 2025** - Full Stack Developer, US-based educational platform (Remote)
+- **2016 - 2020** - Full Stack Developer, SaaS School Management System
+- **2010 - 2016** - PHP Developer, Freelance
 
 ---
 
@@ -62,4 +62,4 @@ Full payroll management module for [Ilmversity](https://ilmversity.com/).
 
 - **Email:** kkhan.talha@gmail.com
 - **Location:** Lahore, Pakistan (GMT+5)
-- **Availability:** Available for full-time remote opportunities
+- **Availability:** Open to remote opportunities
